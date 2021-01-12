@@ -1,0 +1,3 @@
+include ':pipitlibrary'
+include ':app'
+rootProject.name = "ProjectPipitLibrary"
